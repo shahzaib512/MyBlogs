@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Shahzaib Dev Diary",
-  description: "Welcome to Shahzaib Dev Diary, where coding meets creativity. Discover personal anecdotes, coding tips, and tech news that reflect Shahzaib’s passion for programming and technology.”",
+  description: "Welcome to Shahzaib Dev Diary, where coding meets creativity. Discover personal anecdotes, coding tips, and tech news that reflect Shahzaib passion for programming and technology.”",
 };
 
 export default function RootLayout({ children }) {
