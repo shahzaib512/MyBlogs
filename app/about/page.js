@@ -20,10 +20,10 @@ export default function About() {
             <div className="w-full md:w-2/3 flex flex-col justify-center">
               <h1 className="text-4xl font-bold text-gray-800 dark:text-white mb-4">About Me</h1>
               <p className="text-gray-600 dark:text-gray-50 text-lg mb-4">
-                Hello! I'm Shahzaib, a passionate software developer who has dedicated the last 2 years to mastering the art of coding. My journey has been a blend of excitement and challenges, driven by a deep-seated enthusiasm for technology and problem-solving.
+                Hello! I&apos;m Shahzaib, a passionate software developer who has dedicated the last 2 years to mastering the art of coding. My journey has been a blend of excitement and challenges, driven by a deep-seated enthusiasm for technology and problem-solving.
               </p>
               <p className="text-gray-600 dark:text-gray-50 text-lg">
-                My career began as an accountant in a school, but it wasn’t long before I realized that my true calling was in programming. Despite the initial struggles and the need to balance work with my personal life, I made a pivotal decision to shift my focus. I embarked on a journey of self-improvement, cutting out distractions and honing my skills in coding.
+                My career began as an accountant in a school, but it wasn&apos;t long before I realized that my true calling was in programming. Despite the initial struggles and the need to balance work with my personal life, I made a pivotal decision to shift my focus. I embarked on a journey of self-improvement, cutting out distractions and honing my skills in coding.
               </p>
             </div>
           </div>
@@ -33,7 +33,7 @@ export default function About() {
       <section className="py-16 bg-gray-50 dark:bg-gray-800 dark:text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-extrabold text-gray-900 dark:text-white">Shahzaib's Journey as a Coder</h2>
+            <h2 className="text-3xl font-extrabold text-gray-900 dark:text-white">Shahzaib&apos;s Journey as a Coder</h2>
             <p className="mt-4 text-lg text-gray-600 dark:text-gray-50">
               From a humble beginning to a dedicated programmer, discover how Shahzaib navigated his career transition and embraced the world of technology.
             </p>
@@ -88,7 +88,7 @@ export default function About() {
               <div className="md:w-2/3 md:pl-8 mt-8 md:mt-0">
                 <h3 className="text-2xl font-bold text-gray-800 dark:text-white">Embracing Challenges</h3>
                 <p className="mt-4 text-gray-600 dark:text-gray-50">
-                  The journey through programming was fraught with challenges, but Shahzaib’s dedication never wavered. He embraced the difficulties, understanding that mastery required persistent effort and daily practice. This commitment enabled him to clarify complex concepts and build confidence in his skills.
+                  The journey through programming was fraught with challenges, but Shahzaib&apos;s dedication never wavered. He embraced the difficulties, understanding that mastery required persistent effort and daily practice. This commitment enabled him to clarify complex concepts and build confidence in his skills.
                 </p>
               </div>
             </div>
